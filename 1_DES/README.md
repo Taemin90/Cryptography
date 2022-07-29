@@ -14,7 +14,7 @@
   <img width="925" alt="image" src="https://user-images.githubusercontent.com/57401207/181732422-2292f75b-83f9-4b42-8dd9-c68935bcb942.png">
 
 
-## DES_parameters.py
+## DES_Parameters.py
  - Permutation lists, S-Box, PC-1, PC-2 are included.
  - This file should be imported in 'DES.py'.
 
