@@ -7,7 +7,7 @@ I strongly referenced the book, 'Understanding Cryptography'(https://www.crypto-
 
 
 1. Data Encryption Standard, DES
- - I used 'BitVector' libray for implementing DES. I think it is the perfect library for bit operation. Even though the library provides very powerful functions, I do not use them for deeper understanding DES. 
+ - I used 'BitVector' library for implementing DES. I think it is the perfect library for bit operation. Even though the library provides very powerful functions, I do not use them for deeper understanding DES. 
 
 ## How to start
 This project was coded in Python 3.8.9
